@@ -18,4 +18,6 @@
 15% — 26
 10% — 1A
 5% — 0D
+
+Reference: http://stackoverflow.com/questions/15852122/hex-transparency-in-colors
 0% — 00

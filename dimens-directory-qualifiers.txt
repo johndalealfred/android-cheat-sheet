@@ -19,3 +19,5 @@ values-mdpi             3.2” 320x480 mdpi
 values-ldpi             3.4” 240x432 ldpi
 values-ldpi             3.3” 240x400 ldpi
 values-ldpi             2.7” 240x320 ldpi
+
+Reference: http://stackoverflow.com/questions/32860815/how-to-define-dimens-xml-for-every-different-screen-size-in-android
